@@ -111,6 +111,26 @@ aws-ml-feature-engineering-pipeline
 ├── Test.csv
 
 └── Train.csv
+
+## Screenshots
+### Essential Libraries
+<img width="1299" height="606" alt="image" src="https://github.com/user-attachments/assets/8ee96d86-4971-491c-91db-83b4cf488bf4" />
+
+### Column Transformer 
+<img width="1210" height="596" alt="image" src="https://github.com/user-attachments/assets/a349570b-19f1-4094-8794-c74dd543d994" />
+
+### Train/Test Split
+<img width="1226" height="602" alt="image" src="https://github.com/user-attachments/assets/ff1c0461-4db8-4f1e-bf1b-c16d0bcf49c6" />
+
+### Files uploaded to S3 bucket
+<img width="1335" height="554" alt="image" src="https://github.com/user-attachments/assets/5e3e0de4-b3b7-463a-9144-13e9e1678cd1" />
+
+### Notebook Instance
+<img width="1062" height="228" alt="image" src="https://github.com/user-attachments/assets/d58ad0dc-3322-4fa4-adde-5a5d5ec6c940" />
+
+### Model evaluation results
+<img width="1254" height="593" alt="image" src="https://github.com/user-attachments/assets/89e99e9b-eea1-46de-a2de-32e5395b45ab" />
+
 ## How to Run the Project
 ### Step 1
 
